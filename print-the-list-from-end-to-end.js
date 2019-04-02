@@ -2,7 +2,7 @@ function ListNode(x){
     this.val = x;
     this.next = null;
 }
-//法一
+//????????
 var reverseList = function(head) {
     if (head==null || head.next==null){
        return head;

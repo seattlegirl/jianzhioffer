@@ -4,6 +4,7 @@ class LNode:
         self.val=x
         self.next=None
 
+
 #法一：利用三个指针遍历
 # 返回ListNode
 def ReverseList1(pHead):

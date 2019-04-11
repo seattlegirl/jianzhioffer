@@ -3,6 +3,7 @@ function ListNode(x){
     this.next = null;
 }
 
+
 //法一：利用三个指针遍历
 function ReverseList1(head){
     if(head===null){
